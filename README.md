@@ -2,3 +2,5 @@
 Solve a pandemic related problem of mask detection among different people using OpenCV, and computer vision
 Used transfer learning to increase the performance of model through transfer of knowledge
  using residual network(ResNet)
+
+This project is done with guidance from Indian AI Production
